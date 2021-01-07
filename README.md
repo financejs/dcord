@@ -7,7 +7,7 @@ A [Finance.io](https://npmjs.com/package/finance.io) Discord Bot Wrapper
 [![npm (scoped)](https://img.shields.io/npm/v/dcord.svg)](https://www.npmjs.com/package/dcord)
 [![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/dcord.svg)](https://www.npmjs.com/package/dcord)
 [![run on repl.it](https://repl.it/badge/github/financejs/dcord)](https://repl.it/github/financejs/dcord)
-[https://github.com/financejs/dcord/Release_Note.md](https://img.shields.io/badge/Read%20Docs-Release%20Note-blue)
+[![https://github.com/financejs/dcord/Release_Note.md]](https://img.shields.io/badge/Read%20Docs-Release%20Note-blue)
 
 <a href="https://nodei.co/npm/dcord/"><img src="https://nodei.co/npm/dcord.png?downloads=true&stars=true" alt="NPM info" /></a>
 
